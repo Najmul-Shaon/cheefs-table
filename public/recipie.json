@@ -1,0 +1,102 @@
+{
+  "recipes": [
+    {
+      "recipe_id": "1",
+      "recipe_image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGdyaWxsZWQlMjBjaGlja2VufGVufDB8fHx8MTY0MDkwODc5Mw&ixlib=rb-1.2.1&q=80&w=400",
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A flavorful grilled chicken dish with fresh basil and soy sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "2 garlic cloves",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_image": "https://images.unsplash.com/photo-1511690743698-d9d85f2fbf38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHJpc290dG98ZW58MHx8fHwxNjQwOTA5MDk3&ixlib=rb-1.2.1&q=80&w=400",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "A creamy and delicious mushroom risotto made with arborio rice.",
+      "ingredients": [
+        "400 g mushroom",
+        "300 g arborio rice",
+        "1 onion",
+        "1 garlic clove",
+        "1 liter vegetable stock",
+        "100 g parmesan cheese"
+      ],
+      "preparing_time": "45 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_image": "https://images.unsplash.com/photo-1601924928370-3a9d684b99f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fHNwYWdoZXR0aXxlbnwwfHx8fDE2NDA5MDkwMzI&ixlib=rb-1.2.1&q=80&w=400",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "A classic Italian pasta dish with rich meat sauce.",
+      "ingredients": [
+        "400 g spaghetti",
+        "500 g ground beef",
+        "200 g tomato sauce",
+        "1 onion",
+        "2 garlic cloves",
+        "1 tbsp olive oil",
+        "100 g parmesan cheese"
+      ],
+      "preparing_time": "50 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_image": "https://images.unsplash.com/photo-1600444000471-1e4bb08984f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fHN0aXIlMjBmcnl8ZW58MHx8fHwxNjQwOTA5Mjkz&ixlib=rb-1.2.1&q=80&w=400",
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "A quick and healthy stir-fry packed with fresh vegetables.",
+      "ingredients": [
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "1 zucchini",
+        "100 g broccoli",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "preparing_time": "20 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_image": "https://images.unsplash.com/photo-1597072406811-10ccf0e3c04e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGF2b2NhZG8lMjB0b2FzdHxlbnwwfHx8fDE2NDA5MDkzNzg&ixlib=rb-1.2.1&q=80&w=400",
+      "recipe_name": "Avocado Toast",
+      "short_description": "A simple and nutritious avocado toast topped with fresh ingredients.",
+      "ingredients": [
+        "1 ripe avocado",
+        "2 slices of whole grain bread",
+        "1 tbsp olive oil",
+        "1 pinch of salt",
+        "1 pinch of black pepper",
+        "1 tbsp lemon juice"
+      ],
+      "preparing_time": "10 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_image": "https://images.unsplash.com/photo-1572552639197-9932810b14a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDR8fHRhY298ZW58MHx8fHwxNjQwOTA5MzQ4&ixlib=rb-1.2.1&q=80&w=400",
+      "recipe_name": "Beef Tacos",
+      "short_description": "Spicy beef tacos with fresh toppings and soft tortillas.",
+      "ingredients": [
+        "500 g ground beef",
+        "8 soft tortillas",
+        "100 g lettuce",
+        "50 g shredded cheese",
+        "100 g salsa",
+        "1 onion",
+        "2 garlic cloves",
+        "1 tbsp taco seasoning"
+      ],
+      "preparing_time": "25 min",
+      "calories": "350 calories"
+    }
+  ]
+}
